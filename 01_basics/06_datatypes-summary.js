@@ -57,3 +57,24 @@ const myfunction = function (){
     alert("Hey There ");
 
 }
+
+
+//  Primitive Datatypes 
+/*
+--STRING => string
+-- NUMBER => number
+-- BOOLEAN => boolean
+-- NULL => object
+-- UNDEFINED =>undefined
+-- SYMBOL => symbol
+-- BigInt => bigint
+
+
+REFRENCE  (NON PRIMITIVE)
+
+-- ARRAY => object
+-- OBJECTS => object
+-- FUNCTIONS => object function
+
+
+*/
