@@ -31,6 +31,7 @@ anotherProfile = "BISHOJ"
 console.log(myProfile);
 console.log(anotherProfile);
 
+// HEAP MEMORY
 let account = {
     profile: "basnetbishoj@outlook.com" ,
     id: "Basnet Bishoj",
